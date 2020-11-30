@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f117752c-919e-4d48-83e9-00081e840bcb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f117752c-919e-4d48-83e9-00081e840bcb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +38,7 @@
       <updated>1606762580335</updated>
       <workItem from="1606762581520" duration="968000" />
       <workItem from="1606768250216" duration="781000" />
+      <workItem from="1606769067824" duration="83000" />
     </task>
     <servers />
   </component>
@@ -65,5 +64,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2521" y="308" key="MultipleFileMergeDialog/1920.0.1920.1080/0.0.1920.1080/1171.1080.1680.1050@1920.0.1920.1080" timestamp="1606763139885" />
+    <state x="2586" y="295" width="588" height="490" key="find.popup" timestamp="1606769074856">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2586" y="295" width="588" height="490" key="find.popup/1920.0.1920.1080/0.23.1920.1057/1171.1103.1680.1027@1920.0.1920.1080" timestamp="1606769074856" />
   </component>
 </project>
